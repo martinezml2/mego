@@ -1,4 +1,4 @@
 # mego
 built for fun and testing
 
-Using this are for a project with the family
+Using this repo for a family project
